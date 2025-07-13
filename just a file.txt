@@ -3,3 +3,4 @@
 3.from remote repo.
 4.from dev branch.
 5.from dev branch in remote repo.
+6.update from local repo from dev branch.
